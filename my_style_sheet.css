@@ -1,0 +1,44 @@
+.login-container{
+    background-color: whitesmoke;
+    width: 600px;
+    padding: 0 0 20px 0;
+    margin: 50px auto;
+    border: 1px solid #cccccc;
+    box-shadow: 0 2px 2px 0 #cccccc;
+}
+.login-body{
+    background-color: whitesmoke;
+    padding: 15px;
+    margin: 0 auto;
+}
+.login-body .input input{
+    width: 98%;
+    height: 25px;
+    font-size: small;
+    padding: 3px;
+    margin-top: 5px;
+    border: 1px solid #cccccc;
+}
+.login-head{
+    background-color: cornflowerblue;
+    padding: 15px;
+}
+.input{
+    margin-bottom: 15px;
+}
+.login-button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: 0;
+    cursor: pointer;
+    width: 100%;
+}
+.forgot-password{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.forgot-password:hover{
+    text-decoration: chocolate;
+    color: chocolate;
+}
